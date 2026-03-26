@@ -5,6 +5,8 @@ public class tableType2
     public static void main(String [] args)
     {
         number obj1 = new number();
+
+        System.out.println("\nTable !\n");
         obj1.Display();
     }
 }
