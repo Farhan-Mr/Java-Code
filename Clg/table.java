@@ -18,6 +18,7 @@ class tab
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter table number : ");
         x = sc.nextInt();
+        sc.close();
     }
     void display()
     {
