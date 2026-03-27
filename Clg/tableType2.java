@@ -28,5 +28,6 @@ class number
                 }
                 System.out.println("\n");
             }
+            sc.close();
     }
 }
