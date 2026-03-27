@@ -26,6 +26,6 @@ class add
     }
     void display()
     {
-        System.out.println("Sum of a and b is " + sum);
+        System.out.println("Sum of " + a + " and " + b + " is " + sum);
     }
 }
