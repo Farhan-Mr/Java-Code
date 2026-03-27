@@ -18,6 +18,7 @@ class age
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your age : ");
         a = sc.nextInt();
+        sc.close();
     }
     void display()
     {
