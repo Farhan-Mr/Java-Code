@@ -25,3 +25,4 @@ class B extends A
         System.out.println("This is Class B");
     }
 }
+
